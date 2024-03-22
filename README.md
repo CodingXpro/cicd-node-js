@@ -58,6 +58,8 @@ cd nodejs-on-ec2
 npm install
 ```
 
+https://esausilva.com/2016/01/29/move-items-between-two-listbox-using-jquery-html-select-tag/
+
 Start the application
 To start the application, run the below command in the terminal:
 
